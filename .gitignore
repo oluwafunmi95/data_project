@@ -1,0 +1,44 @@
+# Python-specific files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.venv
+*.egg
+*.egg-info/
+dist/
+build/
+*.db
+
+# VS Code settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
+
+# Windows-specific system files
+AppData/
+NTUSER.DAT
+ntuser.dat.*
+ntuser.ini
+Desktop.ini
+
+# Log files
+*.log
+
+# Compressed and archive files
+*.zip
+*.tar.gz
+*.rar
+
+# Ignore entire directories
+anaconda3/
+.fashion-simulator/
+Downloads/
+Saved Games/
+Videos/
+Music/
